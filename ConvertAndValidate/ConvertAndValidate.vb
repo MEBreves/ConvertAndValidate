@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Convert and Verify
-'url
+'https://github.com/MEBreves/ConvertAndValidate
 
 Option Strict On
 Option Explicit On
